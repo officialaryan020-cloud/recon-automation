@@ -4,7 +4,7 @@ This tool automates subdomain enumeration and live host detection.
 
 ## Features
 
-* Subdomain enumeration (subfinder, amass, assetfinder, etc.)
+* Subdomain enumeration (subfinder, amass, assetfinder, findomain, chaos, subdominator)
 * Deduplication
 * Live host detection using httpx
 
